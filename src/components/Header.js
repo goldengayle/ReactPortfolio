@@ -2,6 +2,6 @@ import React from 'react';
 
 export default function Header() {
     return(
-        <h1> Gayle Lennox </h1>
+        <h1 align="center"> Gayle Lennox </h1>
     )
 }

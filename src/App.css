@@ -1,3 +1,5 @@
+
+
 .App {
   text-align: center;
 }
@@ -35,4 +37,14 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+body{
+  margin:100;
+  font-family: 'Helvetica Neue', 'sans-serif';
+  color: #f2542d;
+  background: #45f0df;
+  overflow:hidden;
+  display:block
+
 }
