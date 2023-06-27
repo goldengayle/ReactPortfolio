@@ -5,7 +5,7 @@ This project demonstrates use of React components to showcase my portfolio. AS A
 
 
 
-  <img src="src/assets/images/PortfolioScreenshot.jpg">
+  <img src="src/assets/images/PortfolioScreenshot.png">
 
 
 ## How it was made
