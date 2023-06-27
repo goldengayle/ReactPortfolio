@@ -44,7 +44,27 @@ body{
   font-family: 'Helvetica Neue', 'sans-serif';
   color: #f2542d;
   background: #45f0df;
-  overflow:hidden;
-  display:block
+ 
 
+}
+
+input{
+  margin: 10px
+}
+
+.center{
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.float-container {
+  /*border: 3px solid #fff;*/
+  padding: 20px;
+}
+
+.float-child{
+  width: 50%;
+  float: left;
+  padding: 20px;
 }

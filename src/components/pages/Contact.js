@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { validateEmail } from '../../utils/helpers';
 
 
 export default function Contact() {
@@ -12,21 +13,28 @@ export default function Contact() {
     const {target } = e;
     const inputType = target.name;
     const inputValue = target.value;
-    
+
+    if (inputType === 'email'){
+        validateEmail(inputValue)
+            if (true) {
+                setEmail(inputValue)
+            } }
+        
 
      if(inputType === 'name'){
         setName(inputValue)
-     } else if (inputType === 'email'){
-        setEmail(inputValue)
-     } else {
+     }
+
+
+     if (inputType ==="message"){
         setMessage(inputValue)
      }
     }
    
     return (
         <div>
-            <h3> Please fill out form if you would like to connect</h3>
-            < form className ="form">
+            <h3> Please fill out this form if you would like to connect</h3>
+            < form align= "center" className ="form">
                 <input 
                     value ={name}
                     name= "name"
@@ -34,6 +42,7 @@ export default function Contact() {
                     type ="name"
                     placeholder = "name"
                 />
+                <br></br>
                 <input  
                     value ={email}
                     name="email"
@@ -41,6 +50,7 @@ export default function Contact() {
                     type = "email"
                     placeholder = "email"
                 />
+                <br></br>
                 <input  
                     value ={message}
                     name = "message"
@@ -48,6 +58,8 @@ export default function Contact() {
                     type ="message"
                     placeholder ="message"
                 />
+                <br></br>
+                <button className="bucket-button">Submit</button>
 
 
             </form>
