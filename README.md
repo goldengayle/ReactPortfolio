@@ -1,7 +1,7 @@
 ## React Portfolio Project (Module 20)
 
 ## Introduction
-This project demonstrates use of React components to showcase my portfolio. AS A USER I want to find more information about a job applicant to determine if they are a good fit for the offered position. <a href="">Link to Portfolio</a>
+This project demonstrates use of React components to showcase my portfolio. AS A USER I want to find more information about a job applicant to determine if they are a good fit for the offered position. <a href="https://goldengayle.github.io/ReactPortfolio/">Link to Portfolio</a>
 
 
 
