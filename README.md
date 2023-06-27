@@ -5,7 +5,7 @@ This project demonstrates use of React components to showcase my portfolio. AS A
 
 
 
-  <a href= "https://drive.google.com/file/d/1plxLHL296fN4YytW_nGwhlB0usexaIhT/view"> Link to this portfolio </a>
+  <img src="src/assets/images/PortfolioScreenshot.jpg>
 
 
 ## How it was made
