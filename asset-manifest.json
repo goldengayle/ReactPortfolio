@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ReactPortfolio/static/css/main.7a20a7d5.css",
+    "main.js": "/ReactPortfolio/static/js/main.30dc735d.js",
+    "static/media/Pethub3.png": "/ReactPortfolio/static/media/Pethub3.bd210f7d1454cb05460f.png",
+    "static/media/Movierec.png": "/ReactPortfolio/static/media/Movierec.48dc2182360f4aff6f06.png",
+    "static/media/WeatherScreenshot.png": "/ReactPortfolio/static/media/WeatherScreenshot.2e695daa9132ccf79170.png",
+    "static/media/SVGgeneratorAPPimage.png": "/ReactPortfolio/static/media/SVGgeneratorAPPimage.1b31e1af3f9140009858.png",
+    "static/media/lennoxportrait.jpg": "/ReactPortfolio/static/media/lennoxportrait.0d0e2c6d861674138c9c.jpg",
+    "static/media/sizzlepop21.jpg": "/ReactPortfolio/static/media/sizzlepop21.3d1b2b3db9fc2dfd5d09.jpg",
+    "static/media/triangles21knit.jpeg": "/ReactPortfolio/static/media/triangles21knit.ac08b6c6265ecdd3005a.jpeg",
+    "index.html": "/ReactPortfolio/index.html",
+    "main.7a20a7d5.css.map": "/ReactPortfolio/static/css/main.7a20a7d5.css.map",
+    "main.30dc735d.js.map": "/ReactPortfolio/static/js/main.30dc735d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a20a7d5.css",
+    "static/js/main.30dc735d.js"
+  ]
+}
